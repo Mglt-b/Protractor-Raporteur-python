@@ -4,7 +4,7 @@ from math import cos, sin, radians
 class ProtractorApp:
     def __init__(self, root):
         self.root = root
-        self.root.geometry("500x50")
+        self.root.geometry("500x550")
         self.root.title("Rapporteur d'Angles Rotatif")
 
         # Initialisation du canvas
