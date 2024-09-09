@@ -1,14 +1,3 @@
-# Création du fichier README.md avec le contenu formaté correctement
-readme_content = """
-# 🎛️ **Rotating Protractor App**
-
-[🇬🇧 English Version](#english-version)  
-[🇫🇷 Version Française](#version-française)
-
----
-
-## 🇬🇧 **English Version**
-
 ### 📖 **Description**
 
 This **Rotating Protractor App** is a graphical tool developed in Python using **Tkinter**. It allows users to visually manipulate two protractors:
